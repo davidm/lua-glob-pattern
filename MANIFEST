@@ -1,0 +1,8 @@
+CHANGES.txt
+README.txt
+rockspec.in
+test.lua
+globtopattern.lua
+Makefile
+MANIFEST
+util.mk
